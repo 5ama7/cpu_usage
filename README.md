@@ -1,2 +1,2 @@
 # cpu_usage
-CPU usage information for Linux and Windows
+CPU usage information of certain process(PID) for Linux and Windows
